@@ -93,7 +93,7 @@
     
     0(n) = Algoritmo linear - crescimento proporcional ao temanho da entrada;
     
-    0 (n log n ) = componente linear e logaritmo (Quick Sort, Merge Sort);
+    0(n log n ) = componente linear e logaritmo (Quick Sort, Merge Sort);
     
     0(N_aoQuadrado) = (Selection Sort, Bubble Sort) Se aumenta a entrada aumenta o tempo de execução ao quadrado;
     
