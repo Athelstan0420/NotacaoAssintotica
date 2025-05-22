@@ -81,7 +81,9 @@
             - Analisa Memória gasta;
             - Tamanho da entrada
             - Identificar o melhor e o pior caso;
-            - Independe da linguagem, hardware ou algoritmo;
+            - Independe da linguagem, hardware ou algoritmo(Necessidade apenas da lógica do algoritmos);
+            - Importante! pois permite comparar a eficiência de diferentes algoritmos.
+
     
     -------------------------------------------------------------------------------
     
